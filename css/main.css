@@ -1,0 +1,29 @@
+body {
+  font-family: 'Titillium Web', sans-serif;
+}
+
+.navbar-brand {
+  font-size: 20px;
+  color: #000;
+  font-weight: bold;
+}
+
+
+
+footer {
+  background: url(../img/smartphones.jpg);
+  background-repeat: no-repeat; 
+  background-position: center center; 
+  background-size:cover
+}
+
+
+#info-one {
+  height: 100vh; /* Establece la altura del elemento a 100% de la altura de la ventana */
+}
+
+
+
+#info-one .container .row {
+  height: 100%; /* Establece la altura de la fila al 100% del contenedor interno */
+}
